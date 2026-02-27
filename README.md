@@ -1,27 +1,41 @@
-<p align="center">
-  <!-- repeat=false ensures the animation plays only once per load -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=45&duration=4000&pause=1000&color=1E88E5&center=true&vCenter=true&width=600&repeat=false&lines=Devam+Tanna" alt="Name" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=500&size=22&pause=1000&color=546E7A&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Solved+450%2B+Questions+Across+Platforms;Data+Structures+Enthusiast" alt="Subtext" />
-</p>
+# Devam Tanna
+**MERN STACK DEVELOPER**
+<br/>
+<!-- Lavender slow-blink highlight line -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=24&duration=4000&pause=2000&color=B388FF&center=false&vCenter=true&width=700&lines=Solved+450%2B+DSA+questions+across+platforms;%20" alt="Blinking DSA Achievement" />
 
 ---
 
 ### 🚀 Performance Overview
+- 🧩 **DSA:** Successfully **Solved 450+ DSA questions across platforms** with a focus on optimization.
 - 💻 **Stack:** Specialized in building scalable web apps with the **MERN Stack**.
-- 🧩 **DSA:** Successfully solved **450+ problems** focusing on optimization.
-- 🎨 **Frontend:** Creating fast, responsive interfaces with **React and Vite**.
-- ⚡ **Backend:** Designing robust APIs using **Node.js and Express**.
+- ⚡ **Workflow:** Designing robust APIs and fast, responsive interfaces.
+
+---
+
+### 💻 Technical Arsenal
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,nodejs,react,js,mongodb,postman,postgres,github,vscode,express,tailwind" />
+  </a>
+</p>
+
+---
+
+### 📂 Featured Systems (Production Repos)
+*Direct links to my most significant technical architectures.*
+
+| Project | Description | Live / Repo |
+| :--- | :--- | :--- |
+| 🎓 **LMS** | AI-powered Multilingual Learning Management System. | [View Repo](https://github.com/devam1912/LMS) |
+| 🐝 **Service Bee** | Local service discovery backend with RBAC & Chat. | [View Repo](https://github.com/devam1912/Service-Bee) |
+| 🤖 **Saas-AI** | Full-stack AI content engine with subscription plans. | [View Repo](https://github.com/devam1912/Saas-Ai) |
+| 💼 **Portfolio** | Professional showcase with custom "Football Pitch" theme. | [Live Site](https://portfolio-liart-delta-80.vercel.app/) |
 
 ---
 
 ### 🌐 Professional Hub
 <p align="center">
-  <a href="https://portfolio-liart-delta-80.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-1E88E5?style=for-the-badge&logo=react&logoColor=white" />
-  </a>
   <a href="https://codolio.com/profile/devam01" target="_blank">
     <img src="https://img.shields.io/badge/Codolio-6E45E2?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
@@ -29,33 +43,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:devamtanna07@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://portfolio-liart-delta-80.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-1E88E5?style=for-the-badge&logo=react&logoColor=white" />
   </a>
 </p>
 
----
-
-### 🔥 GitHub Active Streaks
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devam1912&theme=nord&hide_border=true" height="195px" />
-</p>
-
----
-
-### 💻 Technical Stack
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,js,express,cpp,postman,mongodb,postgres,vscode,github" />
-  </a>
-</p>
-
----
-
-### 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devam1912&theme=nord&hide_border=true&area=true" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devam1912&label=TOTAL+VISITORS&color=1E88E5&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=devam1912&label=TOTAL+VISITORS&color=B388FF&style=flat-square" />
 </p>
