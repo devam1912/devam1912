@@ -172,14 +172,16 @@ These cards update automatically from my public coding profiles.
 <div align="center">
 
 <a href="https://leetcode.com/u/devam1/">
-  <img width="48%" src="https://leetcard.jacoblin.cool/devam1?theme=dark&font=Outfit&ext=heatmap" alt="Devam's LeetCode statistics" />
-</a>
-<a href="https://github.com/devam1912">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=devam1912&theme=tokyonight&hide_border=true&background=0D1117&ring=B388FF&fire=F59E0B&currStreakLabel=B388FF" alt="Devam's GitHub streak" />
+  <img width="68%" src="https://leetcard.jacoblin.cool/devam1?theme=dark&font=Outfit&ext=heatmap" alt="Devam's LeetCode statistics" />
 </a>
 
 <p>
-  <sub><b>Left:</b> solved LeetCode problems and the last 52 weeks of submissions · <b>Right:</b> current and longest GitHub contribution streaks</sub>
+  <sub><b>Problem-solving dashboard:</b> solved LeetCode problems by difficulty and submission activity over the last 52 weeks.</sub>
+</p>
+
+<p>
+  <a href="https://github.com/devam1912?tab=followers"><img src="https://img.shields.io/github/followers/devam1912?style=for-the-badge&logo=github&label=Followers&color=7C3AED" alt="GitHub followers" /></a>
+  <a href="https://github.com/devam1912?tab=repositories"><img src="https://img.shields.io/github/stars/devam1912?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20Stars&color=B388FF" alt="Total GitHub stars" /></a>
 </p>
 
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devam1912&theme=tokyonight" alt="Devam's GitHub profile summary" />
